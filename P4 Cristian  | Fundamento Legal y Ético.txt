@@ -1,0 +1,115 @@
+4. Fundamento legal y ético
+Explicación de por qué es importante una política ética y de seguridad
+Aplicar estrategias de cumplimiento normativo y auditorías internas ayuda a evitar sanciones y fortalecer la reputación empresarial. 
+Una política ética y de seguridad es fundamental para garantizar la protección de la información y los activos tecnológicos en cualquier organización.
+Importancia de una Política Ética y de Seguridad
+	Protección de datos personales: La Ley de Protección de Datos Personales establece principios para el manejo seguro de la información, evitando el uso indebido de datos sensibles.
+	Prevención de delitos informáticos: El Código Penal y la Ley de Delitos Informáticos, como el acceso no autorizado a sistemas y el robo de información digital.
+	Regulación de la ciberseguridad: La Ley de Ciberseguridad y Seguridad de la Información busca fortalecer la seguridad digital en instituciones públicas y privadas.
+	Fomento de la tecnología y la inteligencia artificial: La Ley de Fomento a la Inteligencia Artificial y Tecnología promueve el desarrollo tecnológico bajo principios éticos y de seguridad.
+	Ética gubernamental: La Ley de Ética Gubernamental establece normas para la transparencia y el correcto manejo de la información en el sector público.
+Implementar una política ética y de seguridad basada en estas leyes permite a las organizaciones cumplir con la normativa vigente, reducir riesgos y fortalecer la confianza de sus usuarios. 
+Citas de artículos relevantes de: 
+1-	Ley de Protección de Datos Personales:
+El principal objetivo de esta ley es garantizar la protección de los datos personales a través de principios clave, como el consentimiento informado, la transparencia, la minimización de datos, la seguridad de la información y la responsabilidad demostrada
+Derechos sobre los datos personales artículo 4: Los ciudadanos pueden solicitar la rectificación, cancelación o bloqueo de sus datos.
+Consentimiento explícito artículo 5: Se requiere autorización expresa para procesar datos sensibles, salvo excepciones médicas.
+En El Salvador establece un marco normativo para garantizar la privacidad y seguridad de la información personal. Su objetivo es regular el tratamiento de datos personales y proteger los derechos de los ciudadanos en cuanto a su información.
+El Artículo 15 de la Ley de Protección de Datos Personales en El Salvador establece el principio de consentimiento en el tratamiento de datos personales.
+ 	Libre: No debe haber presión  para otorgarlo.
+ 	Específico: Debe referirse a un propósito concreto.
+ 	Informado: El titular de los datos debe conocer cómo serán utilizados.
+ 	Expreso: Debe manifestarse de manera clara y verificable.
+ 	Individualizado: Aplicable a cada caso particular.
+Este artículo garantiza que los datos personales solo pueden ser tratados con la autorización explícita de su titular, salvo excepciones establecidas en la ley. 
+Aspectos Claves de la Ley
+Fundamento Legal: Basado en la Constitución de la República, que reconoce el derecho a la intimidad y la autodeterminación informativa.
+Ámbito de Aplicación: Se aplica a entidades públicas y privadas que manejen datos personales.
+Principios Fundamentales:
+Consentimiento Informado: Los ciudadanos deben autorizar el uso de sus datos.
+Transparencia: Las organizaciones deben informar sobre el tratamiento de datos.
+Seguridad de la Información: Se exige la implementación de medidas de protección contra accesos no autorizados.
+Derechos de los Ciudadanos:
+Acceso, Rectificación y Cancelación: Los ciudadanos pueden solicitar modificaciones o eliminación de sus datos.
+Portabilidad y Oposición: Se permite la transferencia de datos bajo condiciones específicas.
+Sanciones: Se establecen multas y medidas correctivas para quienes incumplan la normativa.
+
+
+
+2-	Ley de Ciberseguridad y Seguridad de la Información:
+En El Salvador establece un marco legal para proteger la información digital y fortalecer la seguridad informática en instituciones públicas y privadas.
+Artículo 1: Establece los principios y el marco legal para la protección de la información en instituciones públicas.
+Artículo 2: Define el ámbito de aplicación, incluyendo entidades gubernamentales y privadas que manejan datos sensibles.
+Artículo 7: establece disposiciones sobre auditorías de seguridad informática. Según esta normativa, las auditorías deben cumplir con los siguientes principios:
+	Evaluación periódica: Las instituciones públicas y privadas deben realizar auditorías de ciberseguridad de manera regular para garantizar la protección de la información.
+	Cumplimiento normativo: Se deben verificar las políticas de seguridad implementadas y su alineación con estándares nacionales e internacionales.
+	Supervisión y control: La Agencia de Ciberseguridad del Estado tiene la facultad de fiscalizar el cumplimiento de las medidas de seguridad en entidades reguladas.
+	Sanciones: En caso de incumplimiento, se establecen medidas correctivas y posibles sanciones administrativas.
+Evitar multas y proteger la reputación de una organización es clave para su estabilidad y crecimiento. 
+Aspectos Claves de la Ley
+Fundamento Legal: Basado en la Constitución de la República, que reconoce la importancia de la seguridad de la información en el desarrollo del país.
+Objetivo: Regular, auditar y fiscalizar las medidas de ciberseguridad en entidades gubernamentales y privadas.
+Ámbito de Aplicación: Se aplica a instituciones públicas, empresas privadas y cualquier entidad que maneje información digital.
+Obligaciones:
+	Implementar sistemas de gestión de ciberseguridad.
+	Elaborar estrategias de seguridad informática basadas en estándares internacionales.
+	Mantener registros actualizados de acciones de seguridad.
+Sanciones: Se establecen multas y medidas disciplinarias para quienes incumplan la normativa.
+3-	Ley de Fomento a la Inteligencia Artificial y Tecnologías 
+La ley busca impulsar el desarrollo, investigación y aplicación de la inteligencia artificial en sectores clave como educación, salud, seguridad y transporte. También fomenta la inversión en programas de capacitación y la creación de laboratorios de IA.
+En El Salvador busca impulsar el desarrollo, investigación y aplicación de la inteligencia artificial en diversos sectores, promoviendo su uso responsable y seguro.
+Aspectos Claves de la Ley
+Fundamento Legal: Basado en el artículo 101 de la Constitución, que establece principios de justicia social y desarrollo económico.
+Objetivo: Crear un marco regulatorio para gestionar los riesgos asociados a la inteligencia artificial y fomentar su innovación.
+Ámbito de Aplicación: Incluye el sector público y privado, promoviendo la integración de la IA en educación, salud, seguridad y transporte.
+Protección de Datos: Vinculada con la Ley de Protección de Datos Personales y la Ley de Ciberseguridad, garantizando el uso ético de la IA.
+Creación de Instituciones: Se establece la Agencia Nacional de Inteligencia Artificial (ANIA) para supervisar el cumplimiento de la ley.
+Fomento a la Educación: Incentiva la capacitación en IA dentro del sistema educativo y el sector privado.
+Esta ley busca equilibrar el avance tecnológico con la protección de derechos fundamentales, asegurando que la inteligencia artificial se desarrolle de manera ética y transparente. 
+
+Código Penal y Ley Especial contra los Delitos Informáticos
+En El Salvador establecen el marco legal para sancionar delitos relacionados con el uso indebido de tecnologías de la información.
+Código Penal
+Protección de la información digital: Regula delitos como el acceso no autorizado a sistemas informáticos y el robo de datos.
+Sanciones: Establece penas para quienes vulneren la seguridad de la información y afecten la privacidad de terceros.
+
+Ley Especial contra los Delitos Informáticos 
+Artículo 1: Define el objeto de la ley, enfocándose en la protección de bienes jurídicos afectados por delitos informáticos.
+Artículo 2: Establece el ámbito de aplicación, incluyendo delitos cometidos dentro y fuera del territorio nacional.
+Artículo 3: Define términos clave como delito informático, datos informáticos y sistema informático.
+Acceso indebido a sistemas: Penaliza el ingreso no autorizado a plataformas digitales.
+Manipulación de datos: Sanciona la alteración o eliminación de información sin consentimiento
+1.	Principios Éticos
+	Confidencialidad: Protección de la información contra accesos no autorizados.
+	Integridad: Garantizar la precisión y confiabilidad de los datos.
+	Disponibilidad: Asegurar el acceso oportuno a la información para quienes lo requieran.
+	Transparencia: Informar a los usuarios sobre el uso de sus datos.
+	Responsabilidad: Cumplimiento de normativas y buenas prácticas.
+
+2.	Políticas de Seguridad
+	Gestión de accesos: Control de permisos y autenticación de usuarios.
+	Protección de datos: Cifrado y almacenamiento seguro de información.
+	Respaldo y recuperación: Estrategias para la continuidad del negocio.
+	Monitoreo y auditoría: Evaluación constante de riesgos y vulnerabilidades.
+
+3.	Buenas Prácticas en Ciberseguridad y Nube
+	Implementación de estándares internacionales como ISO 27001.
+	Uso de firewalls, antivirus y sistemas de detección de intrusos.
+	Aplicación de protocolos de seguridad en la nube para proteger datos almacenados.
+	Capacitación continua en seguridad informática para empleados.
+
+4.	Procedimientos de Implementación
+	Pasos para la adopción de políticas de seguridad.
+	Evaluación de riesgos y medidas de mitigación.
+	Plan de respuesta ante incidentes de seguridad.
+
+
+Importancia de evitar multas
+	Impacto financiero: Las multas pueden representar costos significativos que afectan la rentabilidad de una empresa.
+	Cumplimiento legal: Seguir las regulaciones evita problemas legales y posibles demandas.
+	Prevención de riesgos: Implementar medidas de seguridad reduce la posibilidad de infracciones.
+Protección de la reputación
+	Confianza del cliente: Cumplir con normativas genera credibilidad y seguridad en los consumidores.
+	Imagen corporativa: Una empresa con buena reputación atrae más oportunidades de negocio.
+	Relaciones con el gobierno y reguladores: Cumplir con las leyes facilita la colaboración con entidades gubernamentales.
+
